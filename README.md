@@ -1,18 +1,15 @@
 # Online Chess Web Application
 
-This project is made under the IITISoC'2021 (IIT Indore Summer of Code 2021)
+This project is made under the IIIR 2024 (III Ranchi Summer of Code 2024)
 
 ## Project Developers
 
-1. Rahul Kumar
-2. Ankit Pandey
+1. Anuj Anand
+2. Mritunjay Pandey
 3. Satyam Gupta 
-4. Vishwas Raj Batham
 
-## Project Mentors
 
-1. Garvit Galgat
-2. Ashish Raj
+
 
 <hr/>
 
